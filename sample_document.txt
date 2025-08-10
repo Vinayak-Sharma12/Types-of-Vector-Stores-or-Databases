@@ -1,0 +1,7 @@
+This is a sample document for FAISS similarity search.
+It contains multiple lines of text so we can embed it using SentenceTransformers
+and then store those embeddings in a FAISS index.
+
+The quick brown fox jumps over the lazy dog.
+Machine learning and AI are transforming the world.
+Vector databases and similarity search power modern search engines.
